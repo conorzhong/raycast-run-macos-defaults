@@ -1,0 +1,3 @@
+[submodule "external/macos-defaults"]
+	path = external/macos-defaults
+	url = https://github.com/yannbertrand/macos-defaults.git
